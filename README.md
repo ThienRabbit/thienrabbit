@@ -1,1 +1,2 @@
+# Github Stats
 ![ThienRabbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThienRabbit&show_icons=true&theme=tokyonight)
