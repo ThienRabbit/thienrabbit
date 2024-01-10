@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ThienRabbit&color=dc143c)
+![](https://komarev.com/ghpvc/?username=ThienRabbit&color=blue&style=flat-square)
 
 # Github Stats
 ![ThienRabbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThienRabbit&show_icons=true&theme=tokyonight)
